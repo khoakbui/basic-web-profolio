@@ -168,6 +168,7 @@ section {
 
 .section-container {
     display: flex;
+    margin-top: 1rem;
 }
 
 /* PROFILE SECTION */
@@ -377,8 +378,8 @@ article .icon {
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
-    gap: 2.5rem;
-    justify-content: space-around;
+    gap: 1.5rem;
+    justify-content: center;
 }
 
 .color-container {
